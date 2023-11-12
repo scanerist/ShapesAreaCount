@@ -1,0 +1,7 @@
+
+*.props
+*.targets
+*.json
+*.cache
+GeometricLibTest/obj/Debug/net7.0/GeometricLibTest.GlobalUsings.g.cs
+*.info
