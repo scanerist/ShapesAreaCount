@@ -7,7 +7,7 @@ namespace GeometricLibTest;
 
 using Xunit;
 
-public class UnitTest1
+public class GeometricLibUnitTest
 {
     [Fact]
     public void CircleAreaCalculation()
